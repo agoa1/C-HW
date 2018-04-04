@@ -59,7 +59,7 @@ int main() {
   
   cin >> value2;
 
-  cout <<" Thehe sum of the numbers is: " << Sum(value1, value2) << endl;
+  cout <<" The sum of the numbers is: " << Sum(value1, value2) << endl;
 
 
   return 0;
